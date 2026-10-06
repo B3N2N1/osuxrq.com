@@ -14,6 +14,7 @@ TODO：正在施工
   - [Desolation](./users/14353421.md)
 - 谱面推荐
   - [21awa12](./users/36062235.md)
+  - [Doubi_wert](./users/30512018.md)
 - 常规
   - [&#91; Lithromanti &#93;](./users/32975448.md)
   - [\_AnZai_KoKoRo_](./users/33463029.md)
@@ -39,11 +40,22 @@ TODO：正在施工
   - [BenPhantom](./users/5162173.md)
   - [Chiyarara](./users/36409902.md)
   - [ChiliJay](./users/16027612.md)
+  - [Asane779](./users/30654176.md)
+  - [Dragon_Rhyme](./users/32270642.md)
+  - [Erina-](./users/10364008.md)
+  - [FireBanana](./users/33595598.md)
+  - [fufuOwO](./users/27608705.md)
 - 言简意赅
   - [Adversity0721](./users/27552230.md)
   - [dongguadongde](./users/28494479.md)
   - [BloodEngine](./users/28494479.md)
   - [ChengAe](./users/30125315.md)
+  - [daring tact](./users/32396623.md)
+  - [FroZZZZZen](./users/29235972.md)
+  - [keycurse](./users/33367606.md)
+  - [kitakore](./users/33887163.md)
+  - [Loyisa](./users/6071538.md)
+  - [gangkun1414](./users/34907673.md)
 - 来源不明
   - [99p](./users/0.md#99p-的出群遗言)
   - [AI](./users/0.md#AI-的遗言)
