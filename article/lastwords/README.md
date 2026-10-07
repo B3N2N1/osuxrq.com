@@ -15,6 +15,7 @@ TODO：正在施工
 - 谱面推荐
   - [21awa12](./users/36062235.md)
   - [Doubi_wert](./users/30512018.md)
+  - [Gumiaora](./users/35683344.md)
 - 常规
   - [&#91; Lithromanti &#93;](./users/32975448.md)
   - [\_AnZai_KoKoRo_](./users/33463029.md)
@@ -45,6 +46,11 @@ TODO：正在施工
   - [Erina-](./users/10364008.md)
   - [FireBanana](./users/33595598.md)
   - [fufuOwO](./users/27608705.md)
+  - [KoiBroken2](./users/16822918.md)
+  - [Gua_Zi](./users/32228798.md)
+  - [Himitsu](./users/6569959.md)
+  - [hx123yx](./users/35529699.md)
+  - [jaaaagan](./users/27815249.md)
 - 言简意赅
   - [Adversity0721](./users/27552230.md)
   - [dongguadongde](./users/28494479.md)
@@ -56,8 +62,10 @@ TODO：正在施工
   - [kitakore](./users/33887163.md)
   - [Loyisa](./users/6071538.md)
   - [gangkun1414](./users/34907673.md)
+  - [Llitttefoxy](./users/25710736.md)
 - 来源不明
   - [99p](./users/0.md#99p-的出群遗言)
   - [AI](./users/0.md#AI-的遗言)
   - [Mijikuru](./users/0.md#Mijikuru-的遗言)
   - [Amprevil](./users/0.md#Amprevil-的遗言)
+  - [LANGU](./users/0.md#LANGU-的遗言)
