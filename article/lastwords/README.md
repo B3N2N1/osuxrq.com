@@ -56,6 +56,9 @@ TODO：正在施工
   - [N0Where_](./users/36273312.md)
   - [Naughty_chas](./users/15349720.md)
   - [nanoic](./users/32039184.md)
+  - [Pouxba](./users/16378561.md)
+  - [qqmx_x](./users/35750067.md)
+  - [rainbow03](./users/36097722.md)
 - 言简意赅
   - [Adversity0721](./users/27552230.md)
   - [dongguadongde](./users/28494479.md)
@@ -75,6 +78,8 @@ TODO：正在施工
   - [My Dreaest](./users/8457316.md)
   - [Paraliesa](./users/30595368.md)
   - [qRainbowSmile](./users/14748844.md)
+  - [RookiesTwo](./users/14145531.md)
+  - [Sgt_Fantasy](./users/34995831.md)
 - 来源不明
   - [99p](./users/0.md#99p-的出群遗言)
   - [AI](./users/0.md#AI-的遗言)
