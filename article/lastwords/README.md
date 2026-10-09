@@ -53,6 +53,9 @@ TODO：正在施工
   - [Levels](./users/28534876.md)
   - [MengLiYL](./users/33091136.md)
   - [Capgras](./users/6796076.md)
+  - [N0Where_](./users/36273312.md)
+  - [Naughty_chas](./users/15349720.md)
+  - [nanoic](./users/32039184.md)
 - 言简意赅
   - [Adversity0721](./users/27552230.md)
   - [dongguadongde](./users/28494479.md)
@@ -70,6 +73,8 @@ TODO：正在施工
   - [Mintyowo](./users/35677457.md)
   - [Mouse_Fish](./users/36310606.md)
   - [My Dreaest](./users/8457316.md)
+  - [Paraliesa](./users/30595368.md)
+  - [qRainbowSmile](./users/14748844.md)
 - 来源不明
   - [99p](./users/0.md#99p-的出群遗言)
   - [AI](./users/0.md#AI-的遗言)
