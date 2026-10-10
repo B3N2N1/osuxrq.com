@@ -64,6 +64,9 @@ TODO：正在施工
   - [SINKA0](./users/21614712.md)
   - [Tusk1527](./users/33794305.md)
   - [TOPiC_6958](./users/31918202.md)
+  - [xiangkongx](./users/33090766.md)
+  - [Marisa Kirisame](./users/34443419.md)
+  - [zhukongOvQ](./users/21242012.md)
 - 言简意赅
   - [Adversity0721](./users/27552230.md)
   - [dongguadongde](./users/28494479.md)
@@ -92,6 +95,7 @@ TODO：正在施工
   - [xianyuOvO](./users/30849263.md)
   - [xX_DeSu_Xx](./users/30629671.md)
   - [yuanxy](./users/28388886.md)
+  - [Zemta](./users/31639737.md)
 - 来源不明
   - [99p](./users/0.md#99p-的出群遗言)
   - [AI](./users/0.md#AI-的遗言)
